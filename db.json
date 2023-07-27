@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "Deivison Soares",
+      "email": "admin",
+      "password": "admin",
+      "id": 61
+    }
+  ],
+
+    "produtos": [
+    {
+      "imageUrl": "https://loremflickr.com/640/480",
+      "category": "Animal",
+      "name": "Gats",
+      "price": "1",
+      "descricao": "Galeria de gatos",
+      "id": 3
+    }
+  ]
+  
+}
