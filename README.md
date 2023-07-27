@@ -7,7 +7,7 @@
 Usuário: admin
 Senha: admin
 
- [🔗Clique aqui para acessar](https://deivsoares.github.io/AluraGeek/)
+[🔗Clique aqui para acessar](https://deivsoares.github.io/AluraGeek/)
 
 ## Badge
 
