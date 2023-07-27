@@ -4,8 +4,8 @@
 
 ![preview](./.github/preview.png)
 
-Usuário: admin
-Senha: admin
+- Usuário: admin
+- Senha: admin
 
 [🔗Clique aqui para acessar](https://deivsoares.github.io/AluraGeek/)
 
