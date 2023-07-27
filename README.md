@@ -1,11 +1,13 @@
 # alura_geek-2023
 
-- Em desenvolvimento o projeto
+- Projeto em desenvolvimento para concluir o Alura Challenge
+
+![preview](./.github/preview.png)
 
 Usuário: admin
 Senha: admin
 
-[https://deivsoares.github.io/AluraGeek/]
+ [🔗Clique aqui para acessar](https://deivsoares.github.io/AluraGeek/)
 
 ## Badge
 
